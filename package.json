@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/kneurgao/moz-test#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "big.js": "^5.2.2",
+    "express": "^4.16.4",
+    "json2csv": "^4.3.1"
   }
 }
